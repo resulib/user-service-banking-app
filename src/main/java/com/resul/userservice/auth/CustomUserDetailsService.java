@@ -1,4 +1,4 @@
-package com.resul.userservice.config;
+package com.resul.userservice.auth;
 
 import java.util.List;
 

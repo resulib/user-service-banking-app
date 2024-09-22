@@ -1,6 +1,6 @@
 package com.resul.userservice.service;
 
-import com.resul.userservice.config.JwtService;
+import com.resul.userservice.auth.JwtService;
 import com.resul.userservice.dto.AuthenticationResponseDTO;
 import com.resul.userservice.dto.CreateUserDto;
 import com.resul.userservice.dto.UpdateUserDto;

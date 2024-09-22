@@ -1,4 +1,4 @@
-package com.resul.userservice.config;
+package com.resul.userservice.auth;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

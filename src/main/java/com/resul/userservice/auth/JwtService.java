@@ -1,6 +1,5 @@
-package com.resul.userservice.config;
+package com.resul.userservice.auth;
 
-import com.resul.userservice.dto.CreateUserDto;
 import com.resul.userservice.entity.UserEntity;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
